@@ -1,2 +1,2 @@
-# Fake-Hack-Tools
+# Fake_Hack_Tools
 Ce projet contient trois scripts, deux fichiers exécutable (.exe) et un script Python. Tous les scripts sont des faux hacks, créés uniquement à des fins pédagogiques, de divertissement ou de simulation. Ils ne sont en aucun cas destinés à causer des dommages réels aux systèmes informatiques ou à violer des lois de sécurité. Veuillez utiliser ces scripts dans un environnement contrôlé et responsable.
